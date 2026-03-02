@@ -1,1 +1,2 @@
 aysegul.txt dosyasinin olusturulmasi
+yeni metin eklendi
